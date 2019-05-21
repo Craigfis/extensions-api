@@ -16,7 +16,7 @@ Whether you’re a developer from one of our partners or an independent develope
 There are two fundamental principles to consider when branding your extension.
 
 **Celebrate content** 
-<br/>Your extension is designed to give users eye room to focus and plenty of negative space to help quickly parse the tools. Colors and tones don’t stress the eye. The UI is muted, and takes a back seat, allowing the content to be the hero.
+<br/>Your extension is designed to give users' eye room to focus and plenty of negative space to help quickly parse the tools. Colors and tones don’t stress the eye. The UI is muted, and takes a back seat, allowing the content to be the hero.
 
 **Focus on functionality**<br/>
 Fun and delightful, but never at the expense of functionality or utility. Enough focus to find what you need, but not so much that it visually interferes with your content. Everything has a visual purpose.
